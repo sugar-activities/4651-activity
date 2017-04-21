@@ -1,0 +1,9 @@
+[Activity]
+name = gvSIG Batovi Map Viewer
+bundle_id = BatoviMapViewer.Activity
+class = MapViewerActivity.MapViewerActivity
+icon = activity-gvsig-viewer
+activity_version = 5
+host_version = 1
+show_launcher = yes
+
